@@ -1,4 +1,4 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
   Ingredientes
 
@@ -24,7 +24,7 @@
 
     batata palha a gosto
 
-Modo de Preparo
+# Modo de Preparo
 
     Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
